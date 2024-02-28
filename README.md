@@ -7,4 +7,4 @@ The following are the methods available in this Interface:
 
 speak(): Add the utterance(object of SpeechSynthesisUtterance) in the queue, which will be spoken when there is no pending utterance before it. This is the function, we will be using too.
 
-pause(): To pause the current ongoing speech.
+Stop(): To Stop the current ongoing speech.
